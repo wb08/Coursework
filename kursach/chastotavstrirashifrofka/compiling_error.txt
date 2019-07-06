@@ -1,0 +1,15 @@
+/home/wb_69/C++/kursach/chastotavstrirashifrofka/chastota_simvolov.cpp: In function ‘int main()’:
+/home/wb_69/C++/kursach/chastotavstrirashifrofka/chastota_simvolov.cpp:157:55: error: ‘iw’ was not declared in this scope
+ for (auto it = myMap.begin(); it != myMap.end(); ++it,iw++,is++)
+                                                       ^~
+/home/wb_69/C++/kursach/chastotavstrirashifrofka/chastota_simvolov.cpp:157:55: note: suggested alternative: ‘it’
+ for (auto it = myMap.begin(); it != myMap.end(); ++it,iw++,is++)
+                                                       ^~
+                                                       it
+/home/wb_69/C++/kursach/chastotavstrirashifrofka/chastota_simvolov.cpp:157:60: error: ‘is’ was not declared in this scope
+ for (auto it = myMap.begin(); it != myMap.end(); ++it,iw++,is++)
+                                                            ^~
+/home/wb_69/C++/kursach/chastotavstrirashifrofka/chastota_simvolov.cpp:157:60: note: suggested alternative: ‘it’
+ for (auto it = myMap.begin(); it != myMap.end(); ++it,iw++,is++)
+                                                            ^~
+                                                            it
